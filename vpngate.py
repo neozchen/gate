@@ -188,7 +188,7 @@ EDGE_HOSTS = [
 
 OPTIMAL_API = os.environ.get("OPTIMAL_API", "https://cf.090227.xyz/ct
 
-?ips=6&port=443,https://cf.090227.xyz/cu?port=443,https://cf.090227.xyz/cmcc?ips=8&port=443")
+?ips=6&port=443")
 
 
 
